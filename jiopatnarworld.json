@@ -18,18 +18,11 @@
     "auth_expired_toast": "Subscription expired. Please renew it from admin.",
     "auth_invalid_toast": "Invalid Username, Password, or Device ID."
   },
-  "users": [
-    {
+  {
       "username": "test_user",
       "password": "test_pass",
       "device_id": "8e3d64c8-3c99-44d5-947b-example00002",
       "expiry_date_utc": "2024-11-01"
-    },
-    {
-      "username": "admin",
-      "password": "12345678",
-      "device_id": "ad54d481-967f-41d6-a0f8-e3d6c09818e1",
-      "expiry_date_utc": "2014-11-01"
     },
     {
       "username": "user123",
