@@ -18,6 +18,7 @@
     "auth_expired_toast": "Subscription expired. Please renew it from admin.",
     "auth_invalid_toast": "Invalid Username, Password, or Device ID."
   },
+  "users": [
   {
       "username": "test_user",
       "password": "test_pass",
