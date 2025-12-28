@@ -41,6 +41,12 @@
     {
       "username": "admin",
       "password": "12345678",
+      "device_id": "3579d1fb-bcae-43dc-8ecb-4ccfd83cef45",
+      "expiry_date_utc": "2026-01-10"
+    },
+    {
+      "username": "admin",
+      "password": "12345678",
       "device_id": "bd87fc35-e437-49df-92df-df2ecfd75248",
       "expiry_date_utc": "2026-01-10"
     },
