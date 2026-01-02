@@ -29,6 +29,12 @@
     {
       "username": "admin",
       "password": "12345678",
+      "device_id": "7ec475f7-d50a-4cd4-b9dd-6438cef32a77",
+      "expiry_date_utc": "2026-01-19"
+    },
+    {
+      "username": "admin",
+      "password": "12345678",
       "device_id": "1156a3c0-acb7-4cfa-a521-30a587bb9ace",
       "expiry_date_utc": "2026-01-19"
     },
@@ -89,8 +95,8 @@
     {
       "username": "admin",
       "password": "12345678",
-      "device_id": "d4dfe902-3cae-4b45-ae62-b7f92e2c6a45",
-      "expiry_date_utc": "2026-01-10"
+      "device_id": "7ec475f7-d50a-4cd4-b9dd-6438cef32a77",
+      "expiry_date_utc": "2026-01-19"
     },
     {
       "username": "admin",
