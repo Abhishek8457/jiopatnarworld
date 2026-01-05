@@ -26,6 +26,12 @@
       "device_id": "8e3d64c8-3c99-44d5-947b-example00002",
       "expiry_date_utc": "2024-11-01"
     },
+     {
+      "username": "admin",
+      "password": "12345678",
+      "device_id": "94d36a33-9481-43a6-99a4-ae0ea1ace9d5",
+      "expiry_date_utc": "2026-01-20"
+    },
     {
       "username": "admin",
       "password": "12345678",
