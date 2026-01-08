@@ -1,4 +1,4 @@
-#{
+{
   "dialog_config": {
     "title": "Get Reach Location in 60 Second",
     "subtitle": "Please enter your credentials or contact the administrator to activate your subscription",
@@ -17,7 +17,7 @@
     "auth_success_toast": "Login successful! Welcome to the premium features.",
     "auth_expired_toast": "Subscription expired. Please renew it from admin.",
     "auth_invalid_toast": "Invalid Username, Password, or Device ID."
-    },#
+    },
   "users": [
     {
       "username": "test_user",
@@ -434,4 +434,4 @@
       "expiry_date_utc": "2025-12-31"
     }
   ]
-}#
+}
